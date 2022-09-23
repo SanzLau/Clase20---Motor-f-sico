@@ -1,1 +1,1 @@
-# Clase20---Motor-f-sico
+# PROC20_AM_Materia_Repetitiva
