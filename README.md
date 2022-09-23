@@ -1,0 +1,1 @@
+# Clase20---Motor-f-sico
